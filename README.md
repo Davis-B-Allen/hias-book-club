@@ -1,5 +1,8 @@
-# Single Page Idea
+# How to update the site
 
-Simple tool for sharing ideas expressed linearly in a single page of formatted text. Pretty much a gist.
+## First-Time (Only) Setup
 
-Create github-pages branch. Edit the README.md file. Now you've got an username.github.io/reponame endpoint to share your formatted text with folks without the other clutter of the rest of the Github web interface.
+1. [Create a Github Account](https://github.com/join). Take note of the username you chose. Verify the email address you signed up with, and then go to the [github homepage](https://github.com).
+2. Send me your github username so that I can add you to the project.
+
+## How to edit the content of the site.

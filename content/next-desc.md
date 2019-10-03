@@ -1,11 +1,16 @@
-## More Options
+## Next Month's Meeting
 
-Here are some other pieces that were recommended at the first book club:
+Here are the candidates for next Month's meeting:
 
-- [Years and Years](https://www.vulture.com/2019/06/years-and-years-review-hbo-emma-thompson.html) (~6 hours)
-- [Bryan Stephenson - True Justice](https://www.hbo.com/documentaries/true-justice-bryan-stevensons-fight-for-equality) (~2 hours)
-- [Handmaid's Tale (Season 3)](https://www.vulture.com/2019/06/the-handmaids-tale-hulu-season-three-review.html) (~10 hours)
-- [Handmaid's Tale (Season 1)](https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)) (~8 hours)
-- [Anthony Bourdain: Parts Unknown - S7E2 "Manila, Philippines"](https://en.wikipedia.org/wiki/Anthony_Bourdain:_Parts_Unknown#Season_7_(2016)) (~1 hour)
+- [*We Need New Names*](https://www.goodreads.com/book/show/15852479-we-need-new-names) by NoViolet Bulawayo
+  - *A remarkable literary debut--shortlisted for the Man Booker Prize! The unflinching and powerful story of a young girl's journey out of Zimbabwe and to America.*
+- [*The Refugees*](/#) by Viet Than Nguyen
+  - *description etc etc etc*
+- [*The Last Girl*](/#) by Nadia Murad
+  - *description etc etc etc*
+- [*A Hope More Powerful Than the Sea*](/#) by Melissa Fleming
+  - *description etc etc etc*
+- [*Dear America, Notes of an Undocumented Citizen*](/#) by Jose Vargas
+  - *description etc etc etc*
 
-If you have any other recommendations for things you'd enjoy discussing, please drop them in the form below!
+**Vote for your choice for next month below!**

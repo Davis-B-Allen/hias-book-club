@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
-    <title>HIAS Media Discussion Club</title>
+    <title>HIAS Book Club NYC</title>
     <style media="screen">
       body {
         font-family: 'Montserrat', sans-serif;
@@ -52,12 +52,12 @@
         display: block;
         margin: auto;
       }
-      #form-embed {
+      .form-embed {
         overflow: hidden;
-        padding-top: 120%;
+        padding-top: 100%;
         position: relative;
       }
-      #form-embed iframe {
+      .form-embed iframe {
          border: 0;
          height: 100%;
          left: 0;
@@ -77,55 +77,61 @@
         }
       }
       @media only screen and (max-width: 950px) {
-        #form-embed { padding-top: 140%; }
+        .form-embed { padding-top: 110%; }
       }
       @media only screen and (max-width: 852px) {
-        #form-embed { padding-top: 160%; }
+        .form-embed { padding-top: 120%; }
       }
       @media only screen and (max-width: 800px) {
-        #form-embed { padding-top: 180%; }
+        .form-embed { padding-top: 135%; }
       }
       @media only screen and (max-width: 730px) {
-        #form-embed { padding-top: 200%; }
+        .form-embed { padding-top: 150%; }
       }
       @media only screen and (max-width: 690px) {
-        #form-embed { padding-top: 220%; }
+        .form-embed { padding-top: 165%; }
       }
       @media only screen and (max-width: 660px) {
-        #form-embed { padding-top: 240%; }
+        .form-embed { padding-top: 180%; }
       }
       @media only screen and (max-width: 608px) {
-        #form-embed { padding-top: 260%; }
+        .form-embed { padding-top: 190%; }
+      }
+      @media only screen and (max-width: 600px) {
+        .form-embed { padding-top: 170%; }
+      }
+      @media only screen and (max-width: 550px) {
+        .form-embed { padding-top: 180%; }
       }
       @media only screen and (max-width: 468px) {
-        #form-embed { padding-top: 280%; }
+        .form-embed { padding-top: 190%; }
       }
       @media only screen and (max-width: 458px) {
-        #form-embed { padding-top: 320%; }
+        .form-embed { padding-top: 220%; }
       }
       @media only screen and (max-width: 426px) {
-        #form-embed { padding-top: 360%; }
+        .form-embed { padding-top: 250%; }
       }
       @media only screen and (max-width: 396px) {
-        #form-embed { padding-top: 400%; }
+        .form-embed { padding-top: 270%; }
       }
       @media only screen and (max-width: 372px) {
-        #form-embed { padding-top: 440%; }
+        .form-embed { padding-top: 300%; }
       }
       @media only screen and (max-width: 354px) {
-        #form-embed { padding-top: 500%; }
+        .form-embed { padding-top: 370%; }
       }
       @media only screen and (max-width: 332px) {
-        #form-embed { padding-top: 550%; }
+        .form-embed { padding-top: 400%; }
       }
       @media only screen and (max-width: 318px) {
-        #form-embed { padding-top: 600%; }
+        .form-embed { padding-top: 440%; }
       }
       @media only screen and (max-width: 306px) {
-        #form-embed { padding-top: 650%; }
+        .form-embed { padding-top: 480%; }
       }
       @media only screen and (max-width: 294px) {
-        #form-embed { padding-top: 700%; }
+        .form-embed { padding-top: 520%; }
       }
     </style>
     <script type="text/javascript">
@@ -149,36 +155,38 @@
   </head>
   <body>
     <header>
-      <!-- <a id="logo" href="/">HIAS Media Discussion Club</a> -->
-      <h1 id="logo"><a id="logo" href="/">HIAS <span style="font-weight:normal;">Media Discussion Club</span></a></h1>
+      <!-- <a id="logo" href="/">HIAS Book Club NYC</a> -->
+      <h1 id="logo"><a id="logo" href="/">HIAS <span style="font-weight:normal;">Book Club NYC</span></a></h1>
     </header>
     <div id="main-container">
     <div id="main-page">
+
         <div class="intro">
-          <h2>What's this?</h2>
-          <p>I enjoyed last month's inaugural HIAS book club. It occurs to me that it might be interesting to meet to discuss other media as well (e.g. games, film/documentary, television, etc.). I proposed the game <a href="https://en.wikipedia.org/wiki/Papers,_Please">Papers, Please</a> (more info below) and it was suggested that something like this might work well mid-month (in between the main meetings to discuss the book club's <em>book</em> for the month).</p>
-          <p>If you'd be interested in meeting to discuss art in other media (relevant to HIAS' mission, of course), please read on and fill out the form at the bottom of the page. Though the first piece I'm suggesting here is a game, some of you who attended the first book club recommended certain films, documentaries and TV shows, which could definitely be the subject of future meetings. If there's sufficient interest, perhaps we can host mid-month meetings in the same WeWork space.</p>
-          <h2>Concept</h2>
-          <p>A book-club-style meeting to discuss art in other media that might be of interest to HIAS volunteers - games, film, documentaries, television, etc.</p>
-          <p>Meetings to be held once a month (or once every couple/few months, depending on interest and scheduling considerations). The goal would be to pick pieces that take about as much (or less) time to consume as (than) a book (e.g. 4-10 hours).</p>
+          <h2>Introduction</h2>
+
+
+          <!-- v Change the text below to change the introduction v -->
+          The HIAS Book Club is... etc. etc. etc.
+          <!-- ^ Change the text above to change the introduction ^ -->
+
+
         </div>
         <div class="current">
           <div id="current-desc"></div>
-          <div id="current-form-embed"></div>
+          <div id="current-form-embed" class="form-embed"></div>
         </div>
         <div class="next">
           <div id="next-desc"></div>
-          <div id="next-form-embed"></div>
+          <div id="next-form-embed" class="form-embed"></div>
         </div>
         <br>
-        <div id="form-embed"></div>
     </div>
     </div>
     <script type="text/javascript">
       insertMarkdownIntoDivById('content/current-desc.md', 'current-desc');
-      // insertHtmlIntoDivById('content/current-form-embed.html', 'current-form-embed');
+      insertHtmlIntoDivById('content/current-form-embed.html', 'current-form-embed');
       insertMarkdownIntoDivById('content/next-desc.md', 'next-desc');
-      insertHtmlIntoDivById('content/current-form-embed.html', 'form-embed');
+      insertHtmlIntoDivById('content/next-form-embed.html', 'next-form-embed');
     </script>
   </body>
 </html>
